@@ -1,9 +1,13 @@
 ---
 title: Welcome to the Vegetation Classification Working Group (VCWG)
+disableGraph: true
 ---
 This website provides information on our initiatives, objectives, and events. Also, recent publications of our members or blogposts are available here. 
 
-![[for_web_horizontal2.jpg|500]]
+
+
+
+
 
 
 [About Us](About%20Us.md) 
