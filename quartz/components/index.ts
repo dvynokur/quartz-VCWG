@@ -43,5 +43,5 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  Comments,
+  Comments
 }
