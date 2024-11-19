@@ -7,7 +7,5 @@ title: <%*
 	}
 %> <%* tR += `${title}` %>
 draft: false
-tags:
-  - 
 ---
  
