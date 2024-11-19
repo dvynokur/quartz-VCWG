@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "VCWG Home",
-    titleImage: "/static/my-logo-image.png",
+    titleImage: "/quartz/static/my-logo-image.png",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
