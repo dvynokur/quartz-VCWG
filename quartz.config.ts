@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "VCWG",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "VCWG",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
