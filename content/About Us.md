@@ -3,6 +3,7 @@ title: About Us
 draft: false
 ---
 
+![image_logo_horizontal](image_logo_horizontal.png)
 # Vegetation Classification Working Group (VCWG)
 
 
