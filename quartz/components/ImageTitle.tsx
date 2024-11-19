@@ -5,7 +5,7 @@ function ImageTitle({ displayClass }: QuartzComponentProps) {
   return (
     <div class={classNames(displayClass, "img-title")}>
     <a href="{"/"}>
-      <img src="/static/my-logo-image.png" alt="Logo">
+      <img src="/quartz/static/my-logo-image.png" alt="Logo">
     </a>
     </div>
   )
