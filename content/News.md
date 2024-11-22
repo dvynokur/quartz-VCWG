@@ -15,4 +15,4 @@ socialDescription: Latest news from VCWG
 - We launched [wcvg.org](https://www.wcvg.org) website
 
 ---
-[Home Page](content/index.md)
+[Home Page](index.md)
