@@ -1,5 +1,7 @@
 ---
 title: Vegetation Classification Working Group (VCWG)
+socialImage: "og-image.png"
+socialDescription: Vegetation Classification Working Group (VCWG)
 ---
 
 ![image_home1_small](image_home1_small.png)
