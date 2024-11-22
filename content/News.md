@@ -3,6 +3,7 @@ title: News
 draft: false
 date: 2024-11-10
 socialImage: og-image.png
+socialDescription: Latest news from VCWG
 ---
  <small>2024-12-01</small>
 - We launch *WorldVegChecklist* initiative to establish a global vegetation classification system
