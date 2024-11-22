@@ -13,6 +13,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    generateSocialImages: true,
     analytics: {
       provider: "plausible",
     },
