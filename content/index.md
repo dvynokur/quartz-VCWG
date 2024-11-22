@@ -10,32 +10,29 @@ The **Vegetation Classification Working Group (VCWG)** is a part of the Internat
 This website provides information on our initiatives, objectives, and events. Also, we plant to publish here recent publications of our members and blogposts. 
 
 
-[About Us](About%20Us.md)
+### [About Us](About%20Us.md)
 
-[[News]]
+### [[News]]
 
-[Initiatives](Initiatives.md) 
+### [Initiatives](Initiatives.md) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;[[WorldVegChecklist]]
 
-&nbsp;&nbsp;&nbsp;&nbsp;[[Phylogenetic Classification]]
-
-[Publications](Publications.md) 
+### [Publications](Publications.md) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Newsletter](Newsletter.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Blogposts](Blogposts.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[VCWG Blog Posts](VCWG%20Blog%20Posts.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Recent publications](Recent%20publications%20of%20our%20members.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Special collections](Special%20Collections%20organized%20by%20VCWG.md)
 
-[Events](Events.md) 
+### [Events](Events.md) 
 
 
-
+<br>
 
 Follow us on social media:
 [Twitter](link), [Facebook](link)
 
-Old website (deprecated): [link](https://sites.google.com/site/vegclassmethods/about)

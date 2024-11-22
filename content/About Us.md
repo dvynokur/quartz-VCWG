@@ -37,4 +37,4 @@ Our bylaws can be downloaded via link.
 Please send your feedback about the VCWG website to the Chair of the group, Denys Vynokurov (denys.vynokurov@gmail.com)
 
 ---
-[Home page](index.md)
+[Home Page](index.md)

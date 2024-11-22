@@ -1,9 +1,13 @@
 ---
-title: "<% tp.file.title %>"
+title: <% tp.file.title %>
 draft: false
-description:
+date: 
 tags:
   - example-tag
-date:
 ---
- 
+**The post provided by:** 
+
+
+---
+[All Blog Posts](VCWG%20Blog%20Posts.md)
+[Home Page](index.md)
