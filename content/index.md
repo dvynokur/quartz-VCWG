@@ -1,7 +1,7 @@
 ---
 title: Vegetation Classification Working Group (VCWG)
 socialDescription: test description
-socialImage: og-image.png
+socialImage: images/cover.png
 ---
 
 ![image_home1_small](image_home1_small.png)
