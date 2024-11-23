@@ -1,6 +1,8 @@
 ---
 title: About Us
 draft: false
+socialDescription: About Us VCWG page testing description
+socialImage: cover.png
 ---
 
 # Vegetation Classification Working Group (VCWG)
