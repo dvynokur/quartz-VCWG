@@ -25,7 +25,7 @@ draft: false
 
 ## Join Vegetation Classification Working Group!
 
-Membership can be obtained free of charge by sending a request to our secretary Aaron Wells ([Aaron.Wells@aecom.com](mailto:Aaron.Wells@aecom.com)). IAVS membership is recommended but not required.
+Membership can be obtained free of charge by sending a request to **Aaron Wells** ([Aaron.Wells@aecom.com](mailto:Aaron.Wells@aecom.com)). IAVS membership is recommended but not required.
 All members regularly receive VCWG Newsletter (once per several month) with updates on our activity (events, initiatives, announcement of new Special Collections, etc.).
 
 ## Bylaws
@@ -34,7 +34,7 @@ Our bylaws can be downloaded via link.
 
 ## Feedback
 
-Please send your feedback about the VCWG website to the Chair of the group, Denys Vynokurov (denys.vynokurov@gmail.com)
+Please send your feedback about the VCWG website to **Denys Vynokurov** (denys.vynokurov@gmail.com)
 
 ---
 [Home Page](index.md)

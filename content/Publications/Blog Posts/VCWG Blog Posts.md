@@ -6,7 +6,7 @@ Welcome to the Blog Posts page of the Vegetation Classification Working Group (V
 
 These posts explore a variety of topics, including methodological advancements, case studies, personal experiences, and reflections on the state and future of vegetation classification worldwide.
 
-If you are a VCWG member (see the [About Us](About%20Us.md) page for details on how to become a member), we encourage you to contribute your own insights. To submit a blog post, please contact our Blog Post Coordinator, [**Corrado Marcenò**](marcenocorrado@gmail.com). Each submission should include the following fields:
+If you are a VCWG member (see the [About Us](About%20Us.md) page for details on how to become a member), we encourage you to contribute your own insights. To submit a blog post, please contact our Blog Post Coordinator, **Corrado Marcenò** (marcenocorrado@gmail.com). Each submission should include the following fields:
 
 - **Title**
 - **Author(s)**
