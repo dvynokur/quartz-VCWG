@@ -1,13 +1,13 @@
 ---
 title: About Us
 draft: false
-socialImage: og-image.png
+socialImage: logo.png
 socialDescription: Abuut Us description testing
 ---
 
 # Vegetation Classification Working Group (VCWG)
 
-testing about us
+testing 1
 ## Aims and Objectives
 
 **The VCWG aims to:**
