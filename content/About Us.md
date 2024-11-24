@@ -1,7 +1,7 @@
 ---
 title: About Us
 draft: false
-socialImage: [logo.png](logo.png)
+socialImage: logo.png
 socialDescription: Abuut Us description testing
 ---
 
