@@ -64,7 +64,7 @@ Supervised classification methods allow generating a classification rule from a 
 - A classification of vegetation exists for a set of vegetation observation but we do not know how to consistently assign new observations into these classes. This is the case for many legacy classification schemes derived from the Braun-Blanquet method.
 - Even we already have a rule to classify new observations into our vegetation types, we may still want to have additional ways to assign observations. These [additional diagnostic approaches](https://sites.google.com/site/vegclassmethods/statistical-analyses/diagnostic-methods?authuser=0) will not provide the same answer to the membership of vegetation observations, but can be used as indicators (e.g. diagnostic species). This second case is illustrated in the figure below:
 
-![introduction_image](content/VCWG%20Blog%20Posts/introduction_image2.jpg)
+![introduction_image2](content/VCWG%20Blog%20Posts/introduction_image2.jpg)
 
 ---
 [All Blog Posts](VCWG%20Blog%20Posts.md)
