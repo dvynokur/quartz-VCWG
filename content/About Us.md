@@ -33,7 +33,7 @@ All members regularly receive VCWG Newsletter (once per several month) with upda
 
 ## Bylaws
 
-Our bylaws can be downloaded via link.
+Our bylaws can be downloaded via [link](IAVS_WG_Vegetation_classification_Bylaws.pdf).
 
 ## Feedback
 
