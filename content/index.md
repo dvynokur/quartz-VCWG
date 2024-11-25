@@ -1,6 +1,6 @@
 ---
 title: Vegetation Classification Working Group (VCWG)
-socialImage: logo.png
+socialImage: og-image.png
 socialDescription: test description
 ---
 
@@ -11,7 +11,7 @@ The **Vegetation Classification Working Group (VCWG)** is a part of the Internat
 
 This website provides information on our initiatives, objectives, and events. Also, we plant to publish here recent publications of our members and blogposts. 
 
-testing5
+testing0
 ### [About Us](About%20Us.md)
 
 ### [[News]]
