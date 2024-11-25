@@ -1,6 +1,6 @@
 ---
-title:  WorldVegCheckList
-draft: false
+title: WorldVegCheckList
+draft: true
 ---
  
  The goal of the **WorldVegChecklist** initiative is to inventory and revise all described syntaxa at the class level globally. A standardized entry form has been developed, covering key categories: such as continent, country, region, broad vegetation type, biogeographic region, subbiome, altitudinal belt, distribution, description (ecology, physiognomy), validity, protologue, type, diagnostic species in the original diagnosis.
