@@ -7,6 +7,8 @@ socialDescription:
 
 # Vegetation Classification Working Group (VCWG)
 
+The **Vegetation Classification Working Group (VCWG)** is a part of the International Association for Vegetation Science ([IAVS](https://www.iavs.org/)), focused on enhancing the understanding and development of vegetation classification worldwide. Our mission is to connect ecologists working on vegetation classification at various levels – from local communities to global ecosystems – and to promote collaborative efforts in this field.
+
 ## Aims and Objectives
 
 **The VCWG aims to:**
@@ -35,7 +37,7 @@ Our bylaws can be downloaded via link.
 
 ## Feedback
 
-Please send your feedback about the VCWG website to **Denys Vynokurov** (denys.vynokurov@gmail.com)
+Please send your feedback about the VCWG website to **Denys Vynokurov** ([denys.vynokurov@gmail.com](mailto:denys.vynokurov@gmail.com)).
 
 ---
 [Home Page](index.md)

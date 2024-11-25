@@ -1,6 +1,8 @@
 ---
 title: Introduction to Vegetation Classification
 draft: false
+socialImage: og-image.png
+socialDescription:
 date: 2025-01-01
 tags:
   - methods
@@ -48,11 +50,11 @@ Different activities can be generally referred to as ‘classification’. In th
 ### Classification of vegetation as a dynamic entity
 
 Any classification of vegetation is provisional, in the sense that it may need modification in future. The process starts with an initial vegetation survey, which allows deriving an initial set of vegetation types. The characterization of these types provides meaning to those classes, opening the door to use them as vegetation concepts. Later on, new vegetation observations may become available, either from the exploration of new areas or from revisiting the same locations that were initially sampled. These new vegetation observations will be compared to the vegetation types and, if possible, assigned to them. When conducting these assignments, one may discover that some vegetation observations do not fit into any of the initial type. This finding may lead to defining new vegetation types or to modify the existing ones. In any moment, the vegetation type should be able to represent the known variation in plant community composition that exists across the target area.
-![introduction_image](introduction_image.jpg)
+![introduction_image](content/VCWG%20Blog%20Posts/introduction_image.jpg)
 ### Consistency in assignments
 
 Membership rules are **consistent** with membership values if assignment of the same plot records produces the same membership values. This concept is illustrated in the figure below.
-![introduction_image1](introduction_image1.jpg)
+![introduction_image1](content/VCWG%20Blog%20Posts/introduction_image1.jpg)
 If membership rules are consistent then assignment of new plot records will be done in accordance with how the original classification was obtained. For example, imagine that the initial membership statements are “plot records a, b and c belong to vegetation type X” and “plot records d and e belong to vegetation type Y”. Now imagine a membership rule that determines membership to either unit X or unit Y based on the spectrum of Raunkiaer’s life forms found in the plot record. The assignment with this rule is consistent with the original statements if and only if the rule assigns records a-c to X and records d-e to Y. If not, we may say that the assignment is indicative of the membership statements, but we cannot state that the assignment is consistent with the initial classification.
 
 ### Supervised classification and diagnostic methods
@@ -62,7 +64,7 @@ Supervised classification methods allow generating a classification rule from a 
 - A classification of vegetation exists for a set of vegetation observation but we do not know how to consistently assign new observations into these classes. This is the case for many legacy classification schemes derived from the Braun-Blanquet method.
 - Even we already have a rule to classify new observations into our vegetation types, we may still want to have additional ways to assign observations. These [additional diagnostic approaches](https://sites.google.com/site/vegclassmethods/statistical-analyses/diagnostic-methods?authuser=0) will not provide the same answer to the membership of vegetation observations, but can be used as indicators (e.g. diagnostic species). This second case is illustrated in the figure below:
 
-![introduction_image](introduction_image2.jpg)
+![introduction_image](content/VCWG%20Blog%20Posts/introduction_image2.jpg)
 
 ---
 [All Blog Posts](VCWG%20Blog%20Posts.md)

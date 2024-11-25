@@ -6,7 +6,9 @@ title: <%*
 		await tp.file.rename(`${title}`); 
 	}
 %> <%* tR += `${title}` %>
-draft: false
+draft: true
+socialImage: logo.png
+socialDescription:
 ---
  
 ---

@@ -1,6 +1,8 @@
 ---
 title: <% tp.file.title %>
-draft: false
+draft: true
+socialImage: logo.png
+socialDescription:
 date: 
 tags:
   - example-tag

@@ -1,6 +1,8 @@
 ---
 title: Clustering Methods
 draft: false
+socialImage: og-image.png
+socialDescription:
 date: 2025-01-01
 tags:
   - methods

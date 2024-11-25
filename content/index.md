@@ -1,6 +1,6 @@
 ---
 title: Vegetation Classification Working Group (VCWG)
-socialImage: 
+socialImage: og-image.png
 socialDescription:
 ---
 
