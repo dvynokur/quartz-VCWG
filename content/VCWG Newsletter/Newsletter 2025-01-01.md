@@ -1,6 +1,6 @@
 ---
-title:  Newsletter_2025-01-01
-draft: true
+title: Newsletter_2025-01-01
+draft: false
 socialImage: logo.png
 socialDescription:
 ---
