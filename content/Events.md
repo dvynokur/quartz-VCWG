@@ -1,6 +1,6 @@
 ---
-title:  Events
-draft: true
+title: Events
+draft: false
 socialImage: logo.png
 socialDescription:
 ---
