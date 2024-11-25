@@ -22,8 +22,11 @@ This website provides information on our initiatives, objectives, and events. Al
 ### [Publications](Publications.md) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Newsletter](Newsletter.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[VCWG Blog Posts](VCWG%20Blog%20Posts.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Recent publications](Recent%20publications%20of%20our%20members.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Special collections](Special%20Collections%20organized%20by%20VCWG.md)
 
 ### [Events](Events.md) 
