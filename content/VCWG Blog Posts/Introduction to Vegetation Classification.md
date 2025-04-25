@@ -8,7 +8,7 @@ tags:
   - methods
 ---
 **The post provided by:** Miquel De Cáceres
-
+(taken from the old VCWG website: [link](https://sites.google.com/site/vegclassmethods/statistical-analyses/general-concepts?authuser=0))
 ## Main concepts
 
 ### Preliminary definitions

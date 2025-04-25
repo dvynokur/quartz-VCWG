@@ -8,6 +8,7 @@ tags:
   - history
 ---
 **The post provided by:** Ladislav Mucina, Miquel De Cáceres
+(taken from the old VCWG website: [link](https://sites.google.com/site/vegclassmethods/history?authuser=0))
 
 There is a long history and tradition to the methods of classification of vegetation, which has its roots in classical plant geography of the 19th century (Pott, 2011). We divided here the history of vegetation classification into four periods.
 

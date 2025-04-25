@@ -8,7 +8,7 @@ tags:
   - methods
 ---
  **The post provided by:** Miquel De Cáceres, Sebastian Schmidtlein, Susan Wiser
-
+(taken from the old VCWG website: [link](https://sites.google.com/site/vegclassmethods/statistical-analyses/classification-methods?authuser=0))
 ## Hierarchical cluster models
 
 In a hierarchical cluster model, the membership of the plot observation to a given lower level cluster conditions its membership to upper level clusters. Hierarchical models are build using two main strategies. **Agglomerative** techniques construct the classification from the bottom to the top. They begin with clustering of the most similar sites and aggregate these into larger clusters until there is a single cluster containing all sites. **Divisive** techniques construct the classification from the top to the bottom. They begin with all sites in a single cluster that is successively divided until individual sites are separated.

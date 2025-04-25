@@ -15,7 +15,7 @@ If you are a VCWG member (see the [About Us](About%20Us.md) page for details on 
 - **Keywords**
 - **Category** (choose from our current categories or suggest a new one: _Methods on Vegetation Classification_, _History of Vegetation Classification_, _Vegetation Studies_, _Global Classifications_).
 
-We plan to regularly update this page with new contributions that enrich the discourse on vegetation classification. Updates will be featured in the [VCWG Newsletter] and shared directly with all VCWG members.
+We plan to regularly update this page with new contributions that enrich the discourse on vegetation classification. Updates will be featured in the [VCWG Newsletter](VCWG%20Newsletter.md) and shared directly with all VCWG members.
 
 Feel free to share these blog posts on your social media to broaden the reach and impact of our community’s work. We look forward to your engagement and valuable contributions!
 
