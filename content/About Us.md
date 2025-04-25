@@ -31,7 +31,7 @@ Membership can be obtained free of charge. IAVS membership is recommended but no
 All members regularly receive VCWG Newsletter with updates on our activity (events, initiatives, announcement of new Special Collections, etc.).
 ## Social Media
 
-Follow us on social media platforms: [Twitter](link), [Facebook](link)
+Follow us on social media platforms: [Bluesky](https://bsky.app/profile/wgvc-iavs.bsky.social), [Facebook](https://www.facebook.com/groups/1120871432995026)
 ## Bylaws
 
 Our bylaws can be downloaded via [link](IAVS_WG_Vegetation_classification_Bylaws.pdf).

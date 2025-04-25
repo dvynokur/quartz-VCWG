@@ -27,7 +27,6 @@ Feel free to share these blog posts on your social media to broaden the reach an
 - [New high-rank syntaxa of Armenian dry grasslands and thorn-cushion communities](New%20high-rank%20syntaxa%20of%20Armenian%20dry%20grasslands%20and%20thorn-cushion%20communities.md) (by Denys Vynokurov, Alla Aleksanyan, Idoia Biurrun & Jürgen Dengler; published *2025-01-01*)
 
 ### Global Classifications
-- [Biogeographical Regions of the World](Biogeographical%20Regions%20of%20the%20World.md) (by Javier Loidi; published *2025-01-01*)
 
 ### History of Vegetation Classification
 - [History of Vegetation Classification](History%20of%20Vegetation%20Classification.md) (by Ladislav Mucina, Miquel De Cáceres; published *2025-01-01*)

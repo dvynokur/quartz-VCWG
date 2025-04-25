@@ -1,6 +1,6 @@
 ---
 title: Publications
-draft: false
+draft: true
 socialImage: logo.png
 socialDescription:
 ---

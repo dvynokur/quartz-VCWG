@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "VCWG Facebook": "https://www.facebook.com/profile.php?id=100001994362168",
-      "VCWG Twitter": "https://x.com/DenysVynokurov",
+      "VCWG Facebook": "https://www.facebook.com/groups/1120871432995026",
+      "VCWG Bluesky": "https://bsky.app/profile/wgvc-iavs.bsky.social",
     },
   }),
 }

@@ -1,6 +1,6 @@
 ---
-title:  Initiatives
-draft: false
+title: Initiatives
+draft: true
 socialImage: logo.png
 socialDescription:
 ---
