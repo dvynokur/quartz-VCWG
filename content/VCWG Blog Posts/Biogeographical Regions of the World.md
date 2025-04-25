@@ -1,8 +1,8 @@
 ---
 title: Biogeographical Regions of the World
-draft: false
+draft: true
 socialImage: og-image.png
-socialDescription:
+socialDescription: 
 date: 2025-01-01
 tags:
   - global

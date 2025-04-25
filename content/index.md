@@ -11,9 +11,11 @@ The **Vegetation Classification Working Group (VCWG)** is a part of the Internat
 
 This website provides information on our initiatives, objectives, and events. Also, we plant to publish here recent publications of our members and blogposts. 
 
-# Recent news
+To learn more about us, please visit the page [About Us](About%20Us.md)
+## Recent news
+
+- [VCWG Newsletter 1](Newsletter%202025-02.md) has been published
+- Launch of our website [vcwg.org](https://vcwg.org)
 
 
-Follow us on social media:
-[Bluesky](https://bsky.app/profile/wgvc-iavs.bsky.social), [Facebook](https://www.facebook.com/groups/1120871432995026)
 
