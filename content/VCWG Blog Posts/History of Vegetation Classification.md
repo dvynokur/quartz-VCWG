@@ -33,7 +33,7 @@ The basic principles of vegetation science and analysis of plant communities in 
 
 Synusiae are elementary one-layered floristically, physiognomically and ecologically homogeneous vegetation units, directly linked to uniform enviornmental conditions (Cain 1936; Lippmaa 1939; Barkman 1978). Synusiae are used in the sense of a concrete community and not as an abstract classification unit (Gillet & Gallandat, 1996).
 
-## Phytosociology in Russia
+## Dominant approach
 
 According to Pott (2011), classification of vegetation underwent a distinct type of development in Russia and neighbouring countries. Broad expanses of country allowed a simplified form of vegetation description based on the dominant forms of growth. The approach favouring a more detailed floriostic description of the vegetation did not become popular until the recent years when it was used as a reliable method for recording biodiversity.
 

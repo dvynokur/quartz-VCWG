@@ -1,6 +1,6 @@
 ---
 title: VCWG Seminars
-draft: false
+draft: true
 socialImage: logo.png
 socialDescription:
 ---
