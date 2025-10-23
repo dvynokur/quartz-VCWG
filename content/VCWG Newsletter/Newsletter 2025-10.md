@@ -9,7 +9,7 @@ socialDescription:
 
 ## October 2025
 
-([Newsletter in PDF]())
+([Newsletter in PDF](VCWG_Newsletter2.pdf))
 
 ## *Dear VCWG Members*
 
@@ -22,7 +22,7 @@ We are happy to announce the launch of a new activity – [[Vegetation Classific
 The first seminar will take place on **3 December 2025 at 14:00 UTC**. Our first speaker will be **Prof. Javier Loidi**, who will present a talk titled: “**_A proposal for a multi-level classification of the World’s terrestrial vegetation_”**
 
 ![fig2](newsletter2_fig1.jpg)
-(Photo: [link](https://www.elcorreo.com/alava/araba/conservacion-ecosistemas-alava-20210929212008-nt.html?ref=https%3A%2F%2Fwww.elcorreo.com%2Falava%2Faraba%2Fconservacion-ecosistemas-alava-20210929212008-nt.html))
+(Photo from: [link](https://www.elcorreo.com/alava/araba/conservacion-ecosistemas-alava-20210929212008-nt.html?ref=https%3A%2F%2Fwww.elcorreo.com%2Falava%2Faraba%2Fconservacion-ecosistemas-alava-20210929212008-nt.html))
 
 **Brief abstract:**
 Representing the terrestrial ecosystems at the global scale has been one of the most challenging tasks in vegetation science since its beginning. It entails adopting a limited number of synthetic units that can be recognized across the different continents, surpassing the biogeographical context. For this, units have been adopted that fit with the climatic types, such as zonal biomes, because they can be found on different continents. Therefore, it is necessary to adopt a climatic classification, which, in this case, would be bioclimatic. This biome-inspired classification is connected to the floristically inspired phytosociological one. The connection is done by means of the biogeographic territorial units that incorporate the historical and phylogenetic components of the biota they contain.
@@ -58,13 +58,13 @@ If you have **published relevant papers in 2025**, please send them to [**Aaron 
 
 We have opened a space on our website to our members to share their ideas related to vegetation classification: [https://vcwg.org/VCWG-Blog-Posts](https://vcwg.org/VCWG-Blog-Posts). So far, we have posted a few blog posts mainly taken from our old website. But we invite our members to contribute your own insights. Blog posts may discuss new ideas, theoretical reflections, or recently published studies.
 
-Please contact our **Blog Post Coordinator, [Corrado Marcenò**](mailto:marcenocorrado@gmail.com)) to submit a post, see the guidelines on the website page.
+Please contact our **Blog Post Coordinator**, [Corrado Marcenò](mailto:marcenocorrado@gmail.com)) to submit a post, see the guidelines on the website page.
 
 ## 5. Membership update
 
 Earlier this year, we completed a full review of our membership database.
 
-As of **6 February 2025**, we had **125 members from 41 countries**. By **14 October 2025**, this number had risen to **191 members from 54 countries****.**
+As of **6 February 2025**, we had **125 members from 41 countries**. By **14 October 2025**, this number had risen to **191 members from 54 countries**.
 
 We warmly welcome all new members!
 
@@ -88,7 +88,7 @@ We would like to share a call from the **European Vegetation Survey (EVS)** to c
 
 The deadline for abstract submission is **30 November 2025** (with evaluations completed by 15 December 2025), and the deadline for submission of invited papers is **31 March 2026**.
 
-[_Link to the call_].
+[Link to the call](https://vcs.pensoft.net/collection/515/).
 
 ## VCWG special session cancelled
 
