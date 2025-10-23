@@ -77,9 +77,9 @@ Map presenting VCWG members density for countries
 
 We would like to remind everyone that we launched our social media pages. Join us on:
 
-- **Facebook** ([facebook.com/groups/1120871432995026](https://www.facebook.com/groups/1120871432995026)) and
+- **Facebook** ([facebook.com/groups/1120871432995026](https://www.facebook.com/groups/1120871432995026)) and
 
-- **Bluesky** [bsky.app/profile/wgvc-iavs.bsky.social](https://bsky.app/profile/wgvc-iavs.bsky.social)). Follow us to get updates!
+- **Bluesky** ([bsky.app/profile/wgvc-iavs.bsky.social](https://bsky.app/profile/wgvc-iavs.bsky.social)). Follow us to get updates!
 
 
 ## 7. “Broad-scale classification of European vegetation” – Call for contributions
