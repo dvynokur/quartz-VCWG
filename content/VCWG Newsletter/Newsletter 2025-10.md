@@ -52,7 +52,7 @@ We continue to compile a list of **publications authored by VCWG members** relat
 
 The list for **2024** is available here: [https://vcwg.org/Publications-by-our-members](https://vcwg.org/Publications-by-our-members)
 
-If you have **published relevant papers in 2025**, please send them to [**Aaron Wells**](mailto:Aaron.Wells@aecom.com)). We will update the list at the end of the year and share it on our website and in the next Newsletter.
+If you have **published relevant papers in 2025**, please send them to [**Aaron Wells**](mailto:Aaron.Wells@aecom.com). We will update the list at the end of the year and share it on our website and in the next Newsletter.
 
 ## 4. VCWG Blog Posts – Call for contributions
 
@@ -90,7 +90,7 @@ The deadline for abstract submission is **30 November 2025** (with evaluations c
 
 [Link to the call](https://vcs.pensoft.net/collection/515/).
 
-## VCWG special session cancelled
+## 8. VCWG special session cancelled
 
 In early 2025, we announced a call for a VCWG Special Session at the 67th IAVS Annual Symposium titled _“Bringing the different vegetation classification approaches together”._  
 Unfortunately, none of the Steering Committee members could attend the meeting in Greeley, Colorado (29 July–3 August 2025), and the session had to be cancelled. However, we are determined to organize this session next year in Gijón, Spain (22-26 June 2026), during the next IAVS Annual Symposium ([https://gijon2026.iavs-meetings.org/](https://gijon2026.iavs-meetings.org/)).
