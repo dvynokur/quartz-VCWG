@@ -7,7 +7,7 @@ date: 2025-01-01
 tags:
   - methods
 ---
- **The post provided by:** Miquel De Cáceres, Sebastian Schmidtlein, Susan Wiser
+**The post provided by:** Miquel De Cáceres, Sebastian Schmidtlein, Susan Wiser
 (taken from the old VCWG website: [link](https://sites.google.com/site/vegclassmethods/statistical-analyses/classification-methods?authuser=0))
 ## Hierarchical cluster models
 
@@ -106,15 +106,15 @@ Possibilistic C-means (Krishnapuram & Keller 1993) is another modification of FC
 
 ## Other numerical approaches
 
-sds
+
 
 ### COCKTAIL
 
-ds
+
 
 ### REBLOCK
 
-s
+
 
 ## Discussion topics
 
@@ -126,7 +126,7 @@ The hierarchical structure provides knowledge of the data at different levels, b
 
 Although vegetation scientists accept the vegetation continuum, there is often the need to put every plot observation into a known vegetation type (e.g. Kočí et al. 2003). Adopting a framework where plot records can be transitional may be regarded initially as impractical. However, it is desirable to exclude transitions from the set of plots used to define vegetation types, because this ensures a more distinct characterization of those types (e.g. number and identity of diagnostic species, distinct environmental and geographical range). Since many existing quantitative classification algorithms require that all plots in the data set be assigned to a type, the analyst has to make any decisions about exclusion/inclusion of plots having transitional composition before the analysis is begun. Fuzzy clustering provides a way to identify transitional plots, thus making the defined types more robust and cohesive in composition. Moreover, if a single answer is desired, transitional plot records may be a posteriori assigned to the closest type.
 
-### Centroids, medoids or medians?
+### Centroids, medoids or medians
 
 ## Bibliography
 
