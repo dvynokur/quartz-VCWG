@@ -8,13 +8,14 @@ The _Vegetation Classification Seminars_ are an online lecture series organized 
 
 ### **Upcoming seminars**
 
-**Prof. Javier Loidi** – “A proposal for a multi-level classification of the World’s terrestrial vegetation”  
+- [“From natural history to forest classification: biogeographic and evolutionary foundations of Mediterranean white oak forest”](Seminar-2026-01-28.md)  
+  Speaker: **Carlos Vila-Viçosa** 📅 28 January 2026 | 🎥 _Recording of the seminar will be available_
 
-📅 3 December 2025 | 🎥 _Recording of the seminar is available via_ [link](https://www.youtube.com/watch?v=1GIewKpMF1o)
+### **Past seminars**
 
-**Brief abstract:** Representing the terrestrial ecosystems at the global scale has been one of the most challenging tasks in vegetation science since its beginning. It entails adopting a limited number of synthetic units that can be recognized across the different continents, surpassing the biogeographical context. For this, units have been adopted that fit with the climatic types, such as zonal biomes, because they can be found on different continents. Therefore, it is necessary to adopt a climatic classification, which, in this case, would be bioclimatic. This biome-inspired classification is connected to the floristically inspired phytosociological one. The connection is done by means of the biogeographic territorial units that incorporate the historical and phylogenetic components of the biota they contain.
 
-**Prof. Javier Loidi** served as Professor of Botany at the Complutense University of Madrid for 11 years and at the University of the Basque Country for 35 years. Since 2023, he has been Emeritus Professor at the latter institution. His research interests include vegetation science and geobotany, with a focus on vegetation classification, biogeography, and bioclimatology.
+- [“A proposal for a multi-level classification of the World’s terrestrial vegetation”](Seminar-2025-12-03.md)  
+Speaker: **Prof. Javier Loidi** 📅 3 December 2025 | 🎥 _Recording of the seminar:_ [link](https://www.youtube.com/watch?v=1GIewKpMF1o)
 
 
 

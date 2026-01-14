@@ -5,9 +5,11 @@ date: 2024-11-10
 socialImage: og-image.png
 socialDescription: Latest news from VCWG
 ---
+<small>2026-01-28:</small>
+- The second lecture of the [[Vegetation Classification Seminars]] will take place on **28 January 2026 at 14:00 UTC**. Our speaker will be **Carlos Vila-Viçosa**, who will give a talk titled: ["***From natural history to forest classification: biogeographic and evolutionary foundations of Mediterranean white oak forest***"](Seminar-2026-01-28.md). Register via [link](https://events.teams.microsoft.com/event/311e9e32-b63b-4385-a978-0481016c6981@16ed5ab4-2b59-4e40-806d-8a30bdc9cf26)
 
 <small>2025-10-24:</small>
-- The first lecture of the [[Vegetation Classification Seminars]] will take place on **3 December 2025 at 14:00 UTC**. Our first speaker will be **Prof. Javier Loidi**, who will give a talk titled: "**_A proposal for a multi-level classification of the World’s terrestrial vegetation_**".
+- The first lecture of the [[Vegetation Classification Seminars]] will take place on **3 December 2025 at 14:00 UTC**. Our first speaker will be **Prof. Javier Loidi**, who will give a talk titled: ["**_A proposal for a multi-level classification of the World’s terrestrial vegetation_**"](Seminar-2025-12-03.md).
 
 <small>2025-10-24:</small>
 - We are happy to announce the launch of a new activity – [[Vegetation Classification Seminars]], an online lecture series featuring invited speakers who will present their perspectives on diverse topics related to vegetation classification
