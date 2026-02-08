@@ -9,7 +9,7 @@ The _Vegetation Classification Seminars_ are an online lecture series organized 
 ### **Upcoming seminars**
 
 - [“From natural history to forest classification: biogeographic and evolutionary foundations of Mediterranean white oak forest”](Seminar-2026-01-28.md)  
-  Speaker: **Carlos Vila-Viçosa** 📅 28 January 2026 | 🎥 _Recording of the seminar will be available_
+  Speaker: **Carlos Vila-Viçosa** 📅 28 January 2026 | 🎥 _Recording of the seminar:_ [link](https://youtu.be/pImTHG4AYIU)
 
 ### **Past seminars**
 
