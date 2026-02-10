@@ -7,7 +7,6 @@ cssclasses:
   - seminars-folder
 date: 2100-01-01
 ---
-# Vegetation Classification Seminars
 
 The _Vegetation Classification Seminars_ are an online lecture series organized by the Vegetation Classification Working Group (VCWG). The seminars feature invited speakers presenting diverse perspectives on vegetation classification, biogeography, and related fields. Participation is free and open to all interested researchers and students.
 
