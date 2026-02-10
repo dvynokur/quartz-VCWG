@@ -1,5 +1,5 @@
 ---
-title: VCWG Blog Posts
+title: Blog Posts
 draft: false
 socialImage: logo.png
 socialDescription:
