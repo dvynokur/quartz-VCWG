@@ -195,3 +195,8 @@
 /* Titles bold, descriptions regular */
 .vcwg-card-title { font-weight: 700; }
 .vcwg-card-desc  { font-weight: 400; }
+
+/* Hide the “date / meta” line under page titles (global) */
+.content-meta {
+  display: none !important;
+}
