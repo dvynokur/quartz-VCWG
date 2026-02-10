@@ -171,43 +171,27 @@
   display: none;
 }
 
-/* --- VCWG quick-link cards --- */
-.vcwg-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1rem;
-  margin: 1rem 0 2rem;
-}
-
 .vcwg-card {
   display: block;
   padding: 1rem 1.05rem;
-  border-radius: 12px;
-
-  /* IMPORTANT: this gives visible “card” look */
-  background: var(--lightgray);
-
   border: 1px solid var(--lightgray);
   border-left: 6px solid var(--tertiary);
-
+  border-radius: 12px;
+  background: var(--light);
   text-decoration: none;
-  transition: transform .12s, box-shadow .12s, border-color .12s;
+  transition: border-color 0.12s ease, transform 0.12s ease;
 }
 
 .vcwg-card:hover {
-  transform: translateY(-1px);
   border-color: var(--tertiary);
-  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+  transform: translateY(-1px);
 }
 
 .vcwg-card-title {
-  font-weight: 700;          /* title bold */
+  font-weight: 800;
   color: var(--secondary);
-  margin: 0 0 .25rem 0;
+  margin-bottom: 0.25rem;
 }
-
-.vcwg-card-desc {
-  font-weight: 400;          /* description normal */
-  margin: 0;
-  color: var(--darkgray);
-}
+/* Titles bold, descriptions regular */
+.vcwg-card-title { font-weight: 700; }
+.vcwg-card-desc  { font-weight: 400; }
