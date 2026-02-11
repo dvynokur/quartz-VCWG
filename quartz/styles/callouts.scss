@@ -200,3 +200,8 @@
 .content-meta {
   display: none !important;
 }
+
+/* Hide the automatic folder "children" listing on selected pages */
+.no-folder-listing .page-listing {
+  display: none !important;
+}

@@ -4,7 +4,7 @@ draft: false
 socialImage: logo.png
 socialDescription:
 cssclasses:
-  - seminars-folder
+  - no-folder-listing
 date: 2100-01-01
 ---
 
