@@ -51,6 +51,7 @@ This website provides information about our initiatives, objectives, and events.
 
 - The fourth lecture of the [[Vegetation Classification Seminars]] will take place on **25 March 2026 at 14:00 UTC**. Our speakers will be **Wolfgang Willner** and **Don Faber-Langendoen**, who will give a talk titled: ["***A proposal to catalogue and describe terrestrial ecosystems around the globe using the Braun-Blanquet and EcoVeg (International Vegetation Classification) approaches***"](Seminar-2026-01-28.md).
 - The third lecture of the [[Vegetation Classification Seminars]] will take place on **19 February 2026 at 14:00 UTC**. The speaker will be **Jozef Šibík**, who will give a talk titled: ["***From peaks to permafrost: Vegetation classification in the Rocky Mountains and along the Dalton Highway, AK***"](Seminar-2026-02-19.md).
+- [VCWG Newsletter 3](Newsletter%202026-02.md) has been published
 - The second lecture of the [[Vegetation Classification Seminars]] will take place on **28 January 2026 at 14:00 UTC**. Our speaker will be **Carlos Vila-Viçosa**, who will give a talk titled: ["***From natural history to forest classification: biogeographic and evolutionary foundations of Mediterranean white oak forest***"](Seminar-2026-01-28.md).
 - The first lecture of the [[Vegetation Classification Seminars]] will take place on **3 December 2025 at 14:00 UTC**. Our first speaker will be **Prof. Javier Loidi**, who will give a talk titled: "**_A proposal for a multi-level classification of the World’s terrestrial vegetation_**". 
 

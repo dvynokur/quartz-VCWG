@@ -12,6 +12,9 @@ socialDescription: Latest news from VCWG
 <small>2026-02-19:</small>
 - The third lecture of the [[Vegetation Classification Seminars]] will take place on **19 February 2026 at 14:00 UTC**. The speaker will be **Jozef Šibík**, who will give a talk titled: ["***From peaks to permafrost: Vegetation classification in the Rocky Mountains and along the Dalton Highway, AK***"](Seminar-2026-02-19.md). Register via [link](https://events.teams.microsoft.com/event/02b57499-ab35-45a9-aea1-686f926a0091@16ed5ab4-2b59-4e40-806d-8a30bdc9cf26)
 
+<small>2026-02-11:</small>
+- [VCWG Newsletter 3](Newsletter%202026-02.md) has been published
+
 <small>2026-01-28:</small>
 - The second lecture of the [[Vegetation Classification Seminars]] will take place on **28 January 2026 at 14:00 UTC**. Our speaker will be **Carlos Vila-Viçosa**, who will give a talk titled: ["***From natural history to forest classification: biogeographic and evolutionary foundations of Mediterranean white oak forest***"](Seminar-2026-01-28.md). 
 
