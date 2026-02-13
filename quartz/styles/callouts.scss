@@ -163,14 +163,12 @@
 /* --- VCWG custom tweaks --- */
 
 /* FolderPage cleanup (only affects folder listing pages) */
-.page-listing > p {
-  display: none;
-}
-
+.page-listing > p,
 .page-listing .meta {
   display: none;
 }
 
+/* Quick links cards */
 .vcwg-card {
   display: block;
   padding: 1rem 1.05rem;
@@ -187,14 +185,16 @@
   transform: translateY(-1px);
 }
 
+/* Titles bold, descriptions regular */
 .vcwg-card-title {
-  font-weight: 800;
+  font-weight: 700;
   color: var(--secondary);
   margin-bottom: 0.25rem;
 }
-/* Titles bold, descriptions regular */
-.vcwg-card-title { font-weight: 700; }
-.vcwg-card-desc  { font-weight: 400; }
+
+.vcwg-card-desc {
+  font-weight: 400;
+}
 
 /* Hide the “date / meta” line under page titles (global) */
 .content-meta {
