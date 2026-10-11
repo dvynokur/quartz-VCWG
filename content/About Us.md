@@ -21,13 +21,13 @@ The **Vegetation Classification Working Group (VCWG)** is a part of the Internat
 ## Current Steering Committee
 
 - **Denys Vynokurov** (Chair) (Martin Luther University Halle-Wittenberg, Halle, Germany; M.G. Kholodny Institute of Botany, National Academy of Sciences of Ukraine, Kyiv, Ukraine)
-- **Aaron Wells** (Secretary) (AECOM, USA)
+- **Aaron Wells** (Secretary) (HDR, Inc., USA)
 - **Jorge Capello** (Instituto Nacional de Investigação Agrária e Veterinária, Portugal; Universidade do Porto, Portugal)
 - **John T. Hunter** (University of New England, Australia)
 - **Corrado Marcenò** (Università degli Studi di Perugia, Italy)
 ## Join Vegetation Classification Working Group!
 
-Membership can be obtained free of charge. IAVS membership is recommended but not required. If you are interested please register via this [form](https://forms.gle/YMe7HCUS9tAhgtHBA). Questions regarding membership can be sent to **Aaron Wells** ([Aaron.Wells@aecom.com](mailto:Aaron.Wells@aecom.com)). 
+Membership can be obtained free of charge. IAVS membership is recommended but not required. If you are interested please register via this [form](https://forms.gle/YMe7HCUS9tAhgtHBA). Questions regarding membership can be sent to **Aaron Wells** ([aaron.wells@hdrinc.com](mailto:aaron.wells@hdrinc.com)). 
 All members regularly receive VCWG Newsletter with updates on our activity (events, initiatives, announcement of new Special Collections, etc.).
 ## Social Media
 
