@@ -1,6 +1,6 @@
 ---
 title: Vegetation Classification Seminars
-draft: false
+draft: true
 socialImage: logo.png
 socialDescription:
 cssclasses:
